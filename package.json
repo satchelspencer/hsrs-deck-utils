@@ -1,0 +1,17 @@
+{
+  "name": "hsrs-deck-utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "url": " https://github.com/satchelspencer/hsrs-deck-utils.git"
+  },
+  "bin": {
+    "hsrs-import": "./src/import.js",
+    "hsrs-export": "./src/export.js"
+  },
+  "dependencies": {
+    "json-stable-stringify": "^1.3.0",
+    "lodash": "^4.17.21"
+  }
+}
