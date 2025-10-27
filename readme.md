@@ -1,3 +1,6 @@
+This package was been replaced with **@hsrs/cli**.
+Install: `npm i -D @hsrs/cli`
+
 ### usage
 
 for converting to and from git-friendly [hsrs](https://github.com/satchelspencer/hsrs) deck format
